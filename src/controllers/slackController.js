@@ -179,7 +179,7 @@ export const Shedule_Message = async (req, res) => {
             second: '2-digit'
         });
 
-        res.status(201).json({
+        res.status(200).json({
             success: true,
             message: "Message scheduled successfully",
             schedule_method: scheduleMethod,

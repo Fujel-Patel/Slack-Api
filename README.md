@@ -20,7 +20,7 @@ A Node.js backend application that integrates with the Slack API to handle messa
 
 ## Environment Variables
 
-Create a `.env` file in the Backend directory with the following variables:
+Create a .env file in the Backend directory with the following variables:
 
 ```env
 PORT=8000
@@ -143,18 +143,6 @@ The API includes comprehensive validation for:
 ## Time Zones
 
 The application uses Indian Standard Time (IST) for displaying dates and times.
-
-## Contributing
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## License
-
-This project is licensed under the MIT License.
 
 ## Author
 
